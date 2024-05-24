@@ -1,0 +1,29 @@
+.account {
+    background-color: lightgreen;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 25px;
+    
+}
+
+.read {
+    font-weight: bold;
+    text-align: end;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+
+.unread {
+    font-weight: bold;
+    text-align: end;
+    padding: 20px 20px;
+    border-radius: 25px;
+}
+
+.no-unread {
+    background-color: lightgoldenrodyellow;
+    font-weight: bold;
+    text-align: end;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
