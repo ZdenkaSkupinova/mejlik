@@ -2,7 +2,7 @@ import"./header.css"
 
 export const Header = ({user}) => {
 
-  const isLoggedIn = user ? "user" : "login" ;
+  const isLoggedIn = user ? true : false ;
 
   return (
     <>

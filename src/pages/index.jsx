@@ -8,8 +8,11 @@ import { Inbox } from '../components/inbox/inbox';
 document.querySelector('#root').innerHTML = render(
   <div className="container">
     <>
-    <Header user="Radovan Holátko" />
+    <Header />
     <Inbox account="radovan.holatko@mejlik.cz" messages={0} />
     </>
   </div>
 );
+
+
+// user="Radovan Holátko" /> 

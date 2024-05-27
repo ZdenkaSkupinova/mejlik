@@ -1,6 +1,8 @@
 .account {
     background-color: lightgreen;
     font-weight: bold;
+    margin-top: 100px;
+    margin-left: 600px;
     padding: 10px 20px;
     border-radius: 25px;
     
@@ -22,6 +24,7 @@
 
 .no-unread {
     background-color: lightgoldenrodyellow;
+    opacity: 0.5;
     font-weight: bold;
     text-align: end;
     padding: 10px 20px;
